@@ -1,0 +1,30 @@
+.green{
+  color: #67AD5C;
+}
+.primaryColor{
+  color: #2c3338;
+}
+.topHeader{
+  background-color: #F4F4F4;
+  padding: 9px 9px;
+  font-family: "Noto Sans", sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+}
+.menuItem:hover{
+  color: #67AD5C;
+}
+.fa-regular{
+  margin-right: 7px;
+  font-size: 14px;
+}
+h6{
+  font-size: 13px;
+}
+h6 span{
+  font-size: 14px;
+}
+
+.menus{
+  gap: 18px;
+}

@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container-w{
+  width: 1286px;
+}
+
+.formWrapper{
+  background-color: hwb(0 96% 4%);
+  width: 48%;
+  padding: 25px; 
+}
+.button{
+  outline: none;
+  background-color: #67AD5C;
+  color: #fff;
+  border-radius: 4px;
+  border: none;
+}
+input{
+  color: #7F7F7F;
+}
+input:focus{
+  outline: none;
+}
